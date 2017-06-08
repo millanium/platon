@@ -33,7 +33,7 @@ Attacks are the techniques that attackers use to exploit the vulnerabilities in 
 - **Cache Poisoning**: Is an attack that seeks to introduce false or malicious data into a web cache, normally via HTTP Response Splitting. Cache_Poisoning
 - **DNS Poisoning**: Is an attack that seeks to introduce false DNS address information into the cache of a DNS server, where it will be served to other users enabling a variety of attacks. (e.g., Phishing)
 
-+++
+---
 
 ## What is Vulnerability?
 
@@ -94,7 +94,7 @@ A vulnerability is a hole or a weakness in the application, which can be a desig
 
 It is an approach for analyzing the security of an application. It is a structured approach that enables you to identify, quantify, and address the security risks associated with an application.
 
----
++++
 ## Threat Modeling
 
 ![](https://pbs.twimg.com/media/CGjyvaIUIAAZIJZ.png:large)
@@ -114,7 +114,13 @@ http://sqlzoo.net/hack/
 https://www.w3schools.com/sql/sql_injection.asp
 
 ---
-## Hacking using Charles proxy 
+## Hacking using Charles proxy
 
+- Brute-force attack
+- Checking the API traffic for sensitive data: Requests/Responses, Session IDs, Encryption
+-
 
-+++
+---
+## Security testing tools
+
+![](http://apps.testinsane.com/mindmaps/Uploads/Security%20Testing%20Tools.png)
