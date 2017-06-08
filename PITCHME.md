@@ -80,8 +80,6 @@ A vulnerability is a hole or a weakness in the application, which can be a desig
 - **Cross-Site Scripting (XSS)** XSS allows attackers to execute scripts in the victim’s browser which can hijack user sessions, deface web sites, or redirect the user to malicious sites.
 - **Sensitive Data Exposure** Attackers may steal or modify such weakly protected data to conduct credit card fraud, identity theft, or other crimes
 
-
-
 +++
 
 ## Mobile Top 10 - 2016
@@ -90,3 +88,33 @@ A vulnerability is a hole or a weakness in the application, which can be a desig
 - **Insecure Communication** This covers poor handshaking, incorrect SSL versions, weak negotiation, cleartext communication of sensitive assets.
 - **Insecure Authentication** Notions on Authentication or bad session management
 - **Reverse Engineering** Backdoor functionality or internal assets that are not intended for release.
+
+---
+## Threat Modeling
+
+It is an approach for analyzing the security of an application. It is a structured approach that enables you to identify, quantify, and address the security risks associated with an application.
+
+---
+## Threat Modeling
+
+![](https://pbs.twimg.com/media/CGjyvaIUIAAZIJZ.png:large)
+
+---
+## Approach to security testing
+
+![](http://www.amanhardikar.com/mindmaps/SecurityTests.png)
+
+---
+## SQL Injection attacks
+
+Injection flaws occur when untrusted data is sent to an interpreter as part of a command or query. The attacker’s hostile data can trick the interpreter into executing unintended commands or accessing data without proper authorization.
+
++++
+http://sqlzoo.net/hack/
+https://www.w3schools.com/sql/sql_injection.asp
+
+---
+## Hacking using Charles proxy 
+
+
++++
