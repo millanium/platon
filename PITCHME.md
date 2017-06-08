@@ -1,12 +1,13 @@
 # Security Testing
 
+![](https://cdn.elegantthemes.com/blog/wp-content/uploads/2015/09/Best-WordPress-Security-Plugins-shutterstock_252971932.png)
 ---
 
 ## What is Security testing?
 
 The goal of security testing is to identify the threats in the system and measure its potential vulnerabilities. It also helps in detecting all possible security risks in the system and help developers in fixing these problems through coding.
 
----
++++
 
 ## Types of Security testing
 
@@ -19,15 +20,14 @@ The goal of security testing is to identify the threats in the system and measur
 - **Posture Assessment**: This combines Security scanning, Ethical Hacking and Risk Assessments to show an overall security posture of an organization.
 
 
+---
 
+## Sample Test Scenarios
 
-
-
-+++
-
-##
-
-
+- *Password should be encrypted*
+- *Endpoints should be brute-force protected*
+- *Transaction IDs should be encrypted*
+- *Traffic should be protected with certificates*
 
 +++
 
