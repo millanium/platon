@@ -114,7 +114,7 @@ A vulnerability is a hole or a weakness in the application, which can be a desig
 
 It is an approach for analyzing the security of an application. It is a structured approach that enables you to identify, quantify, and address the security risks associated with an application.
 
----
++++
 ## Threat Modeling
 
 ![](https://pbs.twimg.com/media/CGjyvaIUIAAZIJZ.png:large)
