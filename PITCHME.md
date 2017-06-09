@@ -6,7 +6,6 @@
 ## What is Security testing?
 
 The goal of security testing is to identify the threats in the system and measure its potential vulnerabilities. It also helps in detecting all possible security risks in the system and help developers in fixing these problems through coding.
-
 +++
 
 ## Types of Security testing
