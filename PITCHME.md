@@ -12,11 +12,23 @@ The goal of security testing is to identify the threats in the system and measur
 ## Types of Security testing
 
 - **Vulnerability Scanning**: This is done through automated software to scan a system against known vulnerability signatures.
+---
+## Types of Security testing
 - **Security Scanning**: It involves identifying network and system weaknesses, and later provides solutions for reducing these risks.
+---
+## Types of Security testing
 - **Penetration testing**: This testing involves analysis of a particular system to check for potential vulnerabilities to an external hacking attempt.
+---
+## Types of Security testing
 - **Risk Assessment**: This testing involves analysis of security risks observed in the organization. This testing recommends controls and measures to reduce the risk.
-- **Security Auditing**: This is an internal inspection of Applications and Operating systems for security flaws. Audit can also be done via line by line inspection of code
+---
+## Types of Security testing
+- **Security Auditing**: This is an internal inspection of Applications and Operating systems for security flaws. Audit can also be done via line by line inspection of code.
+---
+## Types of Security testing
 - **Ethical Hacking**: It's hacking an Organization Software systems. Unlike malicious hackers ,who steal for their own gains , the intent is to expose security flaws in  the system.
+---
+## Types of Security testing
 - **Posture Assessment**: This combines Security scanning, Ethical Hacking and Risk Assessments to show an overall security posture of an organization.
 
 ---
@@ -28,8 +40,12 @@ Attacks are the techniques that attackers use to exploit the vulnerabilities in 
 
 ## Examples
 
-- **Brute Force**: Is an exhaustive attack that works by testing every possible value of a parameter (password, file name, etc.) Brute_force_attack
-- **Cache Poisoning**: Is an attack that seeks to introduce false or malicious data into a web cache, normally via HTTP Response Splitting. Cache_Poisoning
+- **Brute Force**: Is an exhaustive attack that works by testing every possible value of a parameter (password, file name, etc.) Brute_force_attack.
+---
+## Examples
+- **Cache Poisoning**: Is an attack that seeks to introduce false or malicious data into a web cache, normally via HTTP Response Splitting.
+---
+## Examples
 - **DNS Poisoning**: Is an attack that seeks to introduce false DNS address information into the cache of a DNS server, where it will be served to other users enabling a variety of attacks.
 
 ---
