@@ -30,7 +30,7 @@ The goal of security testing is to identify the threats in the system and measur
 +++
 ## Types of Security testing
 - **Posture Assessment**: This combines Security scanning, Ethical Hacking and Risk Assessments to show an overall security posture of an organization.
-+++
+---
 ## What is an attack?
 
 Attacks are the techniques that attackers use to exploit the vulnerabilities in applications. Attacks are often confused with vulnerabilities, so please try to be sure that the attack you are describing is something that an attacker would do, rather than a weakness in an application.
@@ -39,7 +39,7 @@ Attacks are the techniques that attackers use to exploit the vulnerabilities in 
 
 ## Examples
 
-- **Brute Force**: Is an exhaustive attack that works by testing every possible value of a parameter (password, file name, etc.) Brute_force_attack.
+- **Brute Force**: Is an exhaustive attack that works by testing every possible value of a parameter (password, file name, etc.).
 +++
 ## Examples
 - **Cache Poisoning**: Is an attack that seeks to introduce false or malicious data into a web cache, normally via HTTP Response Splitting.
@@ -114,7 +114,7 @@ A vulnerability is a hole or a weakness in the application, which can be a desig
 
 It is an approach for analyzing the security of an application. It is a structured approach that enables you to identify, quantify, and address the security risks associated with an application.
 
-+++
+---
 ## Threat Modeling
 
 ![](https://pbs.twimg.com/media/CGjyvaIUIAAZIJZ.png:large)
